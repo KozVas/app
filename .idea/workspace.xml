@@ -51,7 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Python.app">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -154,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599505415731</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="del Procfile">
+      <created>1599506030934</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599506030934</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,31 +169,36 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/flask-kozvas" />
+    </ignored-roots>
     <MESSAGE value="test sait push" />
     <MESSAGE value="del Procfile" />
     <option name="LAST_COMMIT_MESSAGE" value="del Procfile" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="182" key="#Notifications" timestamp="1599504616461">
+    <state x="552" y="182" key="#Notifications" timestamp="1599506053781">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="182" key="#Notifications/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599504616461" />
+    <state x="552" y="182" key="#Notifications/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599506053781" />
     <state x="-1196" y="194" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597077955416">
       <screen x="-1600" y="0" width="1280" height="787" />
     </state>
     <state x="-1196" y="194" key="#com.intellij.fileTypes.FileTypeChooser/-1600.0.1280.787/0.0.1920.1040@-1600.0.1280.787" timestamp="1597077955416" />
-    <state x="444" y="0" key="CommitChangelistDialog2" timestamp="1599505404161">
+    <state x="444" y="0" key="CommitChangelistDialog2" timestamp="1599506277205">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1304" y="0" key="CommitChangelistDialog2/-1600.0.1280.787/0.0.1920.1040@-1600.0.1280.787" timestamp="1597081662564" />
-    <state x="444" y="0" key="CommitChangelistDialog2/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599505404161" />
+    <state x="444" y="0" key="CommitChangelistDialog2/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599506277205" />
     <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1599504914783">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -235,18 +247,18 @@
     </state>
     <state width="1259" height="244" key="GridCell.Tab.1.right/-1600.0.1280.787/0.0.1920.1040@-1600.0.1280.787" timestamp="1596820446351" />
     <state width="1259" height="244" key="GridCell.Tab.1.right/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1597080159881" />
-    <state x="215" y="148" key="SettingsEditor" timestamp="1599505054565">
+    <state x="215" y="148" key="SettingsEditor" timestamp="1599506801596">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="215" y="148" key="SettingsEditor/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599505054565" />
+    <state x="215" y="148" key="SettingsEditor/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599506801596" />
     <state x="790" y="390" key="VCS.EditChangelistDialog" timestamp="1597085248228">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="790" y="390" key="VCS.EditChangelistDialog/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1597085248228" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1599505955898">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1599506308033">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599505955898" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599506308033" />
     <state x="519" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1599504894605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
