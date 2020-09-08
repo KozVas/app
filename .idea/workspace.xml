@@ -29,6 +29,11 @@
         <option value="KozVas" />
       </list>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
@@ -182,7 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599555882533</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1 commit">
+      <created>1599556967719</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599556967719</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1 commit">
+      <created>1599557402129</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1599557402129</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,11 +236,11 @@
       <screen x="-1600" y="0" width="1280" height="787" />
     </state>
     <state x="-1196" y="194" key="#com.intellij.fileTypes.FileTypeChooser/-1600.0.1280.787/0.0.1920.1040@-1600.0.1280.787" timestamp="1597077955416" />
-    <state x="444" y="0" key="CommitChangelistDialog2" timestamp="1599555876512">
+    <state x="444" y="0" key="CommitChangelistDialog2" timestamp="1599557434399">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1304" y="0" key="CommitChangelistDialog2/-1600.0.1280.787/0.0.1920.1040@-1600.0.1280.787" timestamp="1597081662564" />
-    <state x="444" y="0" key="CommitChangelistDialog2/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599555876512" />
+    <state x="444" y="0" key="CommitChangelistDialog2/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599557434399" />
     <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1599504914783">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -278,23 +297,27 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="790" y="390" key="VCS.EditChangelistDialog/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1597085248228" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1599555951061">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1599557098230">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599555951061" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599557098230" />
     <state x="519" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1599504894605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="519" y="266" key="com.intellij.ide.util.TipDialog/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599504894605" />
-    <state x="675" y="407" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599506937646">
+    <state x="675" y="407" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599557320985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1150" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1600.0.1280.787/0.0.1920.1040@-1600.0.1280.787" timestamp="1597079657531" />
-    <state x="675" y="407" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599506937646" />
+    <state x="675" y="407" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599557320985" />
     <state x="720" y="312" key="git4idea.merge.GitPullDialog" timestamp="1599506970775">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="720" y="312" key="git4idea.merge.GitPullDialog/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599506970775" />
+    <state x="759" y="366" key="git4idea.ui.GitTagDialog" timestamp="1599557034534">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="366" key="git4idea.ui.GitTagDialog/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599557034534" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597082416588">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
