@@ -66,7 +66,7 @@ def post_update(id):
             db.session.commit()
             return redirect('/posts')
         except:
-            return "При редактировании статьи произошла ошибка"
+            return "При редактировasdaании статьи произошла ошибка"
     else:
 
         return render_template("post_update.html", article=article)
