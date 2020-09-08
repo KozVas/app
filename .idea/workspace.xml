@@ -175,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599508313878</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1 commit">
+      <created>1599555882533</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599555882533</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,7 +205,8 @@
     <MESSAGE value="test sait push" />
     <MESSAGE value="del Procfile" />
     <MESSAGE value="del Procfile1" />
-    <option name="LAST_COMMIT_MESSAGE" value="del Procfile1" />
+    <MESSAGE value="1 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="182" key="#Notifications" timestamp="1599506053781">
@@ -209,11 +217,11 @@
       <screen x="-1600" y="0" width="1280" height="787" />
     </state>
     <state x="-1196" y="194" key="#com.intellij.fileTypes.FileTypeChooser/-1600.0.1280.787/0.0.1920.1040@-1600.0.1280.787" timestamp="1597077955416" />
-    <state x="444" y="0" key="CommitChangelistDialog2" timestamp="1599508308771">
+    <state x="444" y="0" key="CommitChangelistDialog2" timestamp="1599555876512">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1304" y="0" key="CommitChangelistDialog2/-1600.0.1280.787/0.0.1920.1040@-1600.0.1280.787" timestamp="1597081662564" />
-    <state x="444" y="0" key="CommitChangelistDialog2/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599508308771" />
+    <state x="444" y="0" key="CommitChangelistDialog2/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599555876512" />
     <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1599504914783">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -270,10 +278,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="790" y="390" key="VCS.EditChangelistDialog/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1597085248228" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1599555832968">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1599555951061">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599555832968" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/-1600.0.1280.787/0.0.1920.1040@0.0.1920.1040" timestamp="1599555951061" />
     <state x="519" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1599504894605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
